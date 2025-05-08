@@ -1,1 +1,9 @@
-# 3D
+# JOGET ASIK 3D
+
+```
+yarn
+```
+
+```
+yarn dev
+```
